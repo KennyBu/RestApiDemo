@@ -1,0 +1,6 @@
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Repository\bin\Debug\Repository.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Repository\bin\Debug\Repository.pdb
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Repository\bin\Debug\RestSharp.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Repository\bin\Debug\RestSharp.xml
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Repository\obj\Debug\Repository.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\Repository\obj\Debug\Repository.pdb

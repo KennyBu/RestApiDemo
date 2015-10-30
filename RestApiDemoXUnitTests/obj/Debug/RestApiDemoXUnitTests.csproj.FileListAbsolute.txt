@@ -1,0 +1,5 @@
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoXUnitTests\bin\Debug\RestApiDemoXUnitTests.exe.config
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoXUnitTests\bin\Debug\RestApiDemoXUnitTests.exe
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoXUnitTests\bin\Debug\RestApiDemoXUnitTests.pdb
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoXUnitTests\obj\Debug\RestApiDemoXUnitTests.exe
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoXUnitTests\obj\Debug\RestApiDemoXUnitTests.pdb

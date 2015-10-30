@@ -1,0 +1,15 @@
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\Ninject.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\Repository.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\RestSharp.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\Repository.pdb
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\Ninject.xml
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\RestSharp.xml
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+T:\Kenneth Burkhardt\restapi demo\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+T:\Kenneth Burkhardt\restapi demo\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+T:\Kenneth Burkhardt\restapi demo\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

@@ -1,0 +1,14 @@
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\bin\Debug\RestApiDemoConsoleApplication.exe.config
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\bin\Debug\RestApiDemoConsoleApplication.exe
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\bin\Debug\RestApiDemoConsoleApplication.pdb
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\bin\Debug\Ninject.dll
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\bin\Debug\RestApiDemoRepository.dll
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\bin\Debug\RestSharp.dll
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\bin\Debug\RestApiDemoRepository.pdb
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\bin\Debug\Ninject.xml
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\bin\Debug\RestSharp.xml
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\obj\Debug\RestApiDemoConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\obj\Debug\RestApiDemoConsoleApplication.exe
+C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoConsoleApplication\obj\Debug\RestApiDemoConsoleApplication.pdb

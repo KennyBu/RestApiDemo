@@ -1,0 +1,14 @@
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\bin\Debug\Moq.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\bin\Debug\Ninject.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\bin\Debug\Repository.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\bin\Debug\RestSharp.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\bin\Debug\Repository.pdb
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\bin\Debug\Moq.pdb
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\bin\Debug\Moq.xml
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\bin\Debug\Ninject.xml
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\bin\Debug\RestSharp.xml
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\E002592\Documents\Visual Studio 2013\Projects\ConsoleApplication4\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
