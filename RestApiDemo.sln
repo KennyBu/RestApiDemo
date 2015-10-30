@@ -16,7 +16,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{5653BA
 		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiDemoXUnitTests", "RestApiDemoXUnitTests\RestApiDemoXUnitTests.csproj", "{D107F043-FAFB-403B-9489-9EFD3CB929AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiDemoXUnitTests", "RestApiDemoXUnitTests\RestApiDemoXUnitTests.csproj", "{5CABDAD8-D633-40C0-AC2D-540A453AA792}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,10 +36,10 @@ Global
 		{9BCDD371-61E1-4CA3-A71A-3FB064AB672F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BCDD371-61E1-4CA3-A71A-3FB064AB672F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BCDD371-61E1-4CA3-A71A-3FB064AB672F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D107F043-FAFB-403B-9489-9EFD3CB929AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D107F043-FAFB-403B-9489-9EFD3CB929AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D107F043-FAFB-403B-9489-9EFD3CB929AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D107F043-FAFB-403B-9489-9EFD3CB929AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CABDAD8-D633-40C0-AC2D-540A453AA792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CABDAD8-D633-40C0-AC2D-540A453AA792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CABDAD8-D633-40C0-AC2D-540A453AA792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CABDAD8-D633-40C0-AC2D-540A453AA792}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

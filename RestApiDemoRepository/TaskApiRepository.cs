@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Net;
+using Newtonsoft.Json;
 using RestSharp;
 
 namespace RestApiDemoRepository
@@ -20,6 +21,7 @@ namespace RestApiDemoRepository
         {
             IRestRequest request = new RestRequest(TaskApiBasePath, Method.POST);
 
+            request.JsonSerializer = new JsonSerializer();
             request.RequestFormat = DataFormat.Json;
             request.AddBody(task);
 

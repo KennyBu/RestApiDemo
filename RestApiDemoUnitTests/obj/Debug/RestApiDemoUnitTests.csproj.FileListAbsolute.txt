@@ -12,3 +12,16 @@ C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\Res
 C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoUnitTests\obj\Debug\RestApiDemoUnitTests.csprojResolveAssemblyReference.cache
 C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoUnitTests\obj\Debug\RestApiDemoUnitTests.dll
 C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoUnitTests\obj\Debug\RestApiDemoUnitTests.pdb
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\bin\Debug\RestApiDemoUnitTests.dll
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\bin\Debug\RestApiDemoUnitTests.pdb
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\bin\Debug\Ninject.dll
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\bin\Debug\RestApiDemoRepository.dll
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\bin\Debug\RestSharp.dll
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\bin\Debug\RestApiDemoRepository.pdb
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\bin\Debug\Ninject.xml
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\bin\Debug\RestSharp.xml
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\obj\Debug\RestApiDemoUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\obj\Debug\RestApiDemoUnitTests.dll
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoUnitTests\obj\Debug\RestApiDemoUnitTests.pdb

@@ -15,8 +15,8 @@ namespace RestApiDemoConsoleApplication
         {
             _restClient = GetRestClient();
 
-            TestGet();
-            TestGetById(123);
+            //TestGet();
+            //TestGetById(123);
             TestPost();
 
             Console.ReadKey();
@@ -38,7 +38,7 @@ namespace RestApiDemoConsoleApplication
 
                 var response = _taskRepository.PostTask(task);
 
-                Console.WriteLine("Response Status: {0}", response.ToString());
+                Console.WriteLine("Response Status: {0}", response);
             }
             catch (Exception exception)
             {

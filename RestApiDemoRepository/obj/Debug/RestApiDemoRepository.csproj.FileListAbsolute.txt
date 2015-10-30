@@ -6,3 +6,11 @@ C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\Res
 C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoRepository\bin\Debug\RestSharp.xml
 C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoRepository\obj\Debug\RestApiDemoRepository.dll
 C:\Users\Kenneth.Burkhardt\Documents\Visual Studio 2013\Projects\RestApiDemo\RestApiDemo\RestApiDemoRepository\obj\Debug\RestApiDemoRepository.pdb
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\bin\Debug\RestApiDemoRepository.dll
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\bin\Debug\RestApiDemoRepository.pdb
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\bin\Debug\RestSharp.dll
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\bin\Debug\RestSharp.xml
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\obj\Debug\RestApiDemoRepository.dll
+C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\obj\Debug\RestApiDemoRepository.pdb
