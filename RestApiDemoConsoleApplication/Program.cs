@@ -15,8 +15,8 @@ namespace RestApiDemoConsoleApplication
         {
             _restClient = GetRestClient();
 
-            //TestGet();
-            //TestGetById(123);
+            TestGet();
+            TestGetById(123);
             TestPost();
 
             Console.ReadKey();

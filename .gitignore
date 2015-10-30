@@ -55,3 +55,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#NuGet
+packages
+!packages/repositories.config

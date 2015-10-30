@@ -1,5 +1,4 @@
 ﻿using System;
-using System.CodeDom;
 using System.Net;
 using Moq;
 using RestApiDemoRepository;
@@ -32,23 +31,16 @@ namespace RestApiDemoXUnitTests
         public void PostTaskTest_ResponseNull_VerifyExceptionThrown()
         {
             IRestResponse<TaskList> restResponse = null;
-            var exceptionThrown = false;
 
             _mockedRestClient.Setup(x => x.Execute<TaskList>(It.IsAny<IRestRequest>())).Returns(restResponse);
             var taskApiRepository = new TaskApiRepository(_mockedRestClient.Object);
 
             var task = TestHelper.GetTestTask();
 
-            try
-            {
-                var response = taskApiRepository.PostTask(task);
-            }
-            catch (Exception)
-            {
-                exceptionThrown = true;
-            }
-
-            exceptionThrown.ShouldBeTrue();
+            Should.Throw<Exception>
+            (
+                () => taskApiRepository.PostTask(task)
+            );
         }
 
         [Fact]
