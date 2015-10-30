@@ -14,4 +14,3 @@ C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\bi
 C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\bin\Debug\RestSharp.xml
 C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\obj\Debug\RestApiDemoRepository.dll
 C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\obj\Debug\RestApiDemoRepository.pdb
-C:\Users\Kenneth.Burkhardt\Documents\GitHub\RestApiDemo\RestApiDemoRepository\obj\Debug\RestApiDemoRepository.csprojResolveAssemblyReference.cache
